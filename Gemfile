@@ -19,6 +19,8 @@ gem 'coffee-rails', '4.0.0'
 gem 'jquery-rails', '2.2.1'
 gem 'turbolinks', '1.1.1'
 gem 'jbuilder', '1.0.2'
+gem 'execjs', '1.4.0'
+gem 'therubyracer', '0.11.4'
 
 group :doc do
   gem 'sdoc', require: false
